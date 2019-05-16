@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/opholroyd/Topdown-Game/issues"
   },
-  "homepage": "https://github.com/opholroyd/Topdown-Game#readme"
+  "homepage": "https://github.com/opholroyd/Topdown-Game#readme",
+  "dependencies": {
+    "electron": "^5.0.1",
+    "install": "^0.12.2"
+  }
 }
